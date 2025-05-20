@@ -108,10 +108,10 @@ body{
 
     }
 
-.login-form .group input[data-type="password"]{
-    input-security:circle;
-    -webkit-text-security:circle;
-    }
+.login-form .group input[data-type="password"] {
+    -webkit-text-security: circle;
+}
+    
 
 .login-form .group .label{
     color:#000000;
